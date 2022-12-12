@@ -1,0 +1,15 @@
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#footer {
+    background: #d6a1e2;
+    
+    color: #fff;
+    font-size: 14px;
+  }
+  
+#footer .container{
+  text-align: center;
+  Padding:20px;
+}
+  
