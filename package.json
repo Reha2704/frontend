@@ -2,7 +2,7 @@
   "name": "birthday-mern",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:5000",
+  "proxy": "https://yoga-backend-en7b.onrender.com",
   "dependencies": {
     "@berlitz/testimonials": "^3.2.3",
     "@material-ui/core": "^4.12.1",
