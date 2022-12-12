@@ -54,7 +54,7 @@ const Home=()=>{
                                     <li>Monthly basis.</li>
                                     <li><b>Registration fee:</b> 500/- per month</li>
                                 </ul>
-                                <b style={{color:'red'}}> Register here to Join our classes : <a href="/Registration">click here</a></b>
+                                <b style={{color:'red'}}> Register here to Join our classes : <a href="#/Registration">click here</a></b>
                                 </p>
                             </div>
                             </Col>
